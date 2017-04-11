@@ -1,0 +1,6 @@
+Software:
+I used Python 3.5 so that I could use TensorFlow.
+numpy, matplotlib, sklearn, and pandas are also used.
+
+Data:
+Data for the project is found here: https://www.kaggle.com/c/two-sigma-connect-rental-listing-inquiries/data . The two files needed are test.json.zip and train.json.zip. While I downloaded the image files, they are not necessary. Total file size is around 70 Gb and all I used from the images was a count of number of images per listing.
